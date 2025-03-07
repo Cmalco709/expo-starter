@@ -1,0 +1,1 @@
+{"ast":null,"code":"import 'expo-dev-client';","map":{"version":3,"names":[],"sources":["/workspaces/expo-starter/App.tsx"],"sourcesContent":["import 'expo-dev-client';\nimport React from 'react';\n"],"mappings":"AAAA,OAAO,iBAAiB","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}
